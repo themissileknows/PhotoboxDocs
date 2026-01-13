@@ -11,4 +11,4 @@ Das Gehäuse ist in Zusammenarbeit mit der Holzwerkstatt im gegenüberliegenden 
 
 <img src="images/IMG_0131.JPEG" alt="front" width="500"/> <img src="images/IMG_0138.JPEG" alt="front2" width="500"/>
 <img src="images/IMG_0135.JPEG" alt="front" width="500"/> <img src="images/IMG_0134.JPEG" alt="front2" width="500"/>
-<img src="images/IMG_0136.JPEG" alt="front" width="500"/> <img src="images/IMG_0137.JPEG" alt="front2" width="500"/>
+<img src="images/IMG_01371.JPEG" alt="front" width="500"/> <img src="images/IMG_0137.JPEG" alt="front2" width="500"/>
